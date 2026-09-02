@@ -3,7 +3,7 @@ SIMPLE SUPERMARKET BILLING SYSTEM
 Run:
 1. Install Python 3.10 or newer.
 2. Open this folder in Command Prompt.
-3. Run: python main.py
+3. Run: main.py
 
 No external packages are required.
 
